@@ -25,7 +25,12 @@ nome.innerHTML = `olá ${nomeEntrar} `
 // commit 3
 
 
+let array = [1, 3, 5, 7, 8]
 
+for (let i = 0; i < array.length; i++) {
+    console.log("valor: " + array[i]);
+    
+}
 
 
 
