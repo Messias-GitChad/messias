@@ -7,3 +7,4 @@
 var nome = prompt("digite seu nome")
 nome.innerHTML = `olá ${nomeEntrar} `
 
+//Commit-Oziel :)
