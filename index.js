@@ -2,3 +2,6 @@
 //commit de teste
 // commit 3
 //Nicolas-Commit-4
+
+var nome = prompt("digite seu nome")
+nome.innerHTML = `olá ${nomeEntrar} `
