@@ -7,4 +7,6 @@ h1{
     font-size: 50px;
     color: greenyellow;
     text-shadow: 5px 4px black;
+    height: 200px;
+    background: linear-gradient(90deg, blue 0%, red)
 }
