@@ -1,0 +1,10 @@
+.beto-programador{
+    width: 100vw;
+    height: 100vh;
+    background-color: brown;
+}
+h1{
+    font-size: 50px;
+    color: greenyellow;
+    text-shadow: 5px 4px black;
+}
